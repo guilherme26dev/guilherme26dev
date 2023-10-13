@@ -11,14 +11,14 @@ Analise e desenvolvimento de Sitemas - Tecnologo | M.B.A. em Banco de Dados | Et
 ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
-### Objetivos
+## Objetivos
 
 - Arquitetura de Software
 - Arquitetura FrontEnd utilizando conceito de Clean Code
 - Modelagem de Software de acordo com as regras de negocios apresentadas
 
 
-### Sobre mim
+## Sobre mim
 
 Sou Analista e Desenvolvedor de Sistemas graduado no ano de 2022, nesse periodo trabalhava como auxiliar de desenvolvimento, com soluções relacionadas a ETL, dentro desse universo consegui desenvolver skills relacionadas a Bancos de dados utilizando ANSI SQL, Python, NodeJS.
 
@@ -30,6 +30,6 @@ Também sou pós-graduado em CyberSecurity onde observei a necessidade para dese
 
 Minha meta Final seria me tornar um Arquiteto de Software para efetuar a somatoria de todas as skills que venho desenvolvendo até o momento.
 
-### Contatos
+## Contatos
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-de-sousa-jesus-27ab731b7/)
