@@ -28,6 +28,8 @@ Além das habilidades acima também sou responsavel pela parte de segurança, su
 
 Também sou pós-graduado em CyberSecurity onde observei a necessidade para desenvolver a skill de DevSecOps, e MBA em banco de dados para efetuar melhorias de extrações de acordo com a necessidade do negocio.
 
+Atualmente estou cursando Arquitetura de Software para conseguir melhorar as minhas habilidades dentro do desenvolvimento, e obter uma melhor visão sobre as decisões de tecnologias a serem tomadas, para um desenvolvimento mais ágil.
+
 Minha meta Final seria me tornar um Arquiteto de Software para efetuar a somatoria de todas as skills que venho desenvolvendo até o momento.
 
 ## Contatos
